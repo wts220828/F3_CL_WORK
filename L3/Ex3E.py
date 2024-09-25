@@ -10,11 +10,11 @@ print(pound+" pound = "+str(float(pound)/poundkg)+" kg")
 cmm = 100
 print("How tall are you in cm?")
 cm = input("")
-print("You are "+str(float(cm)/cmm)+" m tall.")
+print("You are "+str(int(cm)/cmm)+" m tall.")
 
 #Q3
 #from the SI prefix, 1m = 100cm
 cmm = 100
 print("How tall are you in cm?")
 cm = input("")
-print("You are "+str(float(cm)/cmm)+"m tall.")
+print("You are "+str(int(cm)/cmm)+"m tall.")
