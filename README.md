@@ -1,4 +1,3 @@
-Shall
 Programme is test under Python 3.12 , debug module might be installed.
 
 Created under [Visual Studio Code 1.93.1](https://code.visualstudio.com/)
