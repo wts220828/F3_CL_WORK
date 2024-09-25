@@ -1,8 +1,34 @@
+
+You SHOULD change your oen varible name and you SHALL run, test and debug before any prodution area.
+
+
+---
+
 Programme is test under Python 3.12 , debug module might be installed.
 
 Created under [Visual Studio Code 1.93.1](https://code.visualstudio.com/)
 
-To install module go `https://pypi.org` To download python, go `https://python.org`
+AI Genreated data (Github Copilot), code might be used. For details see https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/
+
+To install module go `https://pypi.org` To download python, go `https://www.python.org/downloads/`
+
+---
+
+<Preferred> Download and use python : https://www.python.org/downloads/
+
+Github online (base on vscode) https://github.dev
+
+W3Cschool Web Python Compiler https://www.w3schools.com/Python/trypython.asp?filename=demo_compiler
+
+--
+
+Text editor:
+
+VSCode https://code.visualstudio.com/
+
+Github online (base on VS code) https://github.dev
+
+VSCode online https://vscode.dev
 
 ---
 
