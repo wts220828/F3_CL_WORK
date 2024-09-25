@@ -1,0 +1,5 @@
+print("How many students are in your class?")
+students = input("")
+print("How much you have to pay?")
+pay = input("")
+print("The total money of the class fee is $ "+str(int(students)*int(pay)))
